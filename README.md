@@ -1,3 +1,3 @@
 <div align="center">
-<img src="screenshot-jyutping-keyboard-iphone.png" alt="Screenshot of Jyutping keyboard on iPhone" width="320" />
+<img src="screenshot-jyutping-keyboard-ipad.png" alt="Screenshot of Jyutping keyboard on iPad" />
 </div>
